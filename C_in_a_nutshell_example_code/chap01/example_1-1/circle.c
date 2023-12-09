@@ -5,7 +5,7 @@
 
 double circularArea( double r );   // Function declaration (prototype form)
 
-int main()                         // Definition of main() begins
+int main(void)                         // Definition of main() begins
 {
    double radius = 1.0, area = 0.0;
 
