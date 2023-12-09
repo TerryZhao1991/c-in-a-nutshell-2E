@@ -1,5 +1,8 @@
 C in a Nutshell, 2e
 ==========
+2023/12/9
+i unzip the .zip file 
+--------------------------
 
 This is the example code that accompanies C in a Nutshell, 2e by Peter Prinz and Tony Crawford (9781491904756). 
 
